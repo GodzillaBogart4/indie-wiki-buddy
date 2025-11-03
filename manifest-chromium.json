@@ -1,6 +1,6 @@
 {
   "name": "__MSG_extensionName__",
-  "version": "3.13.6",
+  "version": "3.13.8",
   "description": "__MSG_extensionDescription__",
   "permissions": [
     "storage",
@@ -30,6 +30,7 @@
     {
       "resources": [
         "favicons/*",
+        "data/sitesCA.json",
         "data/sitesDE.json",
         "data/sitesEN.json",
         "data/sitesES.json",
